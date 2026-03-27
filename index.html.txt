@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hamza Store</title>
+</head>
+<body style="text-align:center; font-family: Arial;">
+
+    <h1>Welcome to Hamza Store</h1>
+    <p>Your one-stop online shopping destination</p>
+    <p>We offer fashion, apparel and accessories.</p>
+
+</body>
+</html>
